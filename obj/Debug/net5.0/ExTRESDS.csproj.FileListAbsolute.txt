@@ -1,0 +1,16 @@
+C:\Users\Desktop\source\repos\ExTRESDS\bin\Debug\net5.0\ExTRESDS.exe
+C:\Users\Desktop\source\repos\ExTRESDS\bin\Debug\net5.0\ExTRESDS.deps.json
+C:\Users\Desktop\source\repos\ExTRESDS\bin\Debug\net5.0\ExTRESDS.runtimeconfig.json
+C:\Users\Desktop\source\repos\ExTRESDS\bin\Debug\net5.0\ExTRESDS.runtimeconfig.dev.json
+C:\Users\Desktop\source\repos\ExTRESDS\bin\Debug\net5.0\ExTRESDS.dll
+C:\Users\Desktop\source\repos\ExTRESDS\bin\Debug\net5.0\ref\ExTRESDS.dll
+C:\Users\Desktop\source\repos\ExTRESDS\bin\Debug\net5.0\ExTRESDS.pdb
+C:\Users\Desktop\source\repos\ExTRESDS\obj\Debug\net5.0\ExTRESDS.csprojAssemblyReference.cache
+C:\Users\Desktop\source\repos\ExTRESDS\obj\Debug\net5.0\ExTRESDS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Desktop\source\repos\ExTRESDS\obj\Debug\net5.0\ExTRESDS.AssemblyInfoInputs.cache
+C:\Users\Desktop\source\repos\ExTRESDS\obj\Debug\net5.0\ExTRESDS.AssemblyInfo.cs
+C:\Users\Desktop\source\repos\ExTRESDS\obj\Debug\net5.0\ExTRESDS.csproj.CoreCompileInputs.cache
+C:\Users\Desktop\source\repos\ExTRESDS\obj\Debug\net5.0\ExTRESDS.dll
+C:\Users\Desktop\source\repos\ExTRESDS\obj\Debug\net5.0\ref\ExTRESDS.dll
+C:\Users\Desktop\source\repos\ExTRESDS\obj\Debug\net5.0\ExTRESDS.pdb
+C:\Users\Desktop\source\repos\ExTRESDS\obj\Debug\net5.0\ExTRESDS.genruntimeconfig.cache
